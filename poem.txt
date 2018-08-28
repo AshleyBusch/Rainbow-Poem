@@ -6,4 +6,5 @@ Yellow
 Green
 Blue
 Purple
+Wait I forgot Indigo
 These are the colors of the rainbow.
